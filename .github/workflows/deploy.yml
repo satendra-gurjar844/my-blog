@@ -1,4 +1,4 @@
-name: Deploy React App to AWS S3
+name: Deploy React App to AWS S3 for CI/CD Test
 
 on:
   push:
