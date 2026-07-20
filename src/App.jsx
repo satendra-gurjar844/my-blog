@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started - Satendra Gurjar CI/CD Pipeline</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test the <code>HMR</code>
+            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
