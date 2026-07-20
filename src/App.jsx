@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started - Satendra Gurjar CI/CD Pipeline</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Edit <code>src/App.jsx</code> and save to the test <code>HMR</code>
           </p>
         </div>
         <button
@@ -26,7 +26,7 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          Count Number is {count}
         </button>
       </section>
 
@@ -38,7 +38,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
-          <p>Your questions, answered</p>
+          <p>Your questions, answered are here Satendra</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
